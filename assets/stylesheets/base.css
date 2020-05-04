@@ -508,7 +508,6 @@
   }
   .avatar {
     position: relative;
-    max-width: 15rem;
     display: block;
     flex: 1 0 auto;
   }
@@ -600,11 +599,14 @@
   .contacts li a.linkedin:hover {
     color: #0077b5;
   }
+  .contacts li a.twitter:hover {
+    color: #0077b5;
+  }
   .contacts li a.telegram:hover {
     color: #0088cc;
   }
-  .contacts li a.phone:hover {
-    color: dimgrey;
+  .contacts li a.instagram:hover {
+    color: coral;
   }
   .contacts li a.website {
     display: none;
