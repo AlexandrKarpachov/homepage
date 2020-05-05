@@ -1042,3 +1042,9 @@
       margin-bottom: 0;
     }
   }
+
+  .lang-img {
+    float: left;
+    height: 18px;
+    width: 20;
+  }
